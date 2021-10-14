@@ -1,10 +1,19 @@
-Example title 2
-------
+===================
+Title from index
+===================
 
-This is example readme file for the whole project. 2
+Hello1
 
 .. toctree::
     :caption: Basic Use
+    :hidden:
     :maxdepth: 1
 
     eg_config
+
+.. toctree::
+    :caption: Other stuff
+    :hidden:
+    :maxdepth: 1
+
+    other
