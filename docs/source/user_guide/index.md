@@ -1,4 +1,4 @@
-# Changelog 1
+# Changelog
 
 Changelog table
 
